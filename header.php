@@ -3,4 +3,4 @@
     <head>
         <title>TofuLinux</title>
     </head>
-    <body>
+    <body bgcolor="#87cefa">
